@@ -15,6 +15,7 @@ conda install -c bioconda stacks
 
 ```
 
+---
 ### Stacksのインストール（公式HPからの場合）
 
 参考
