@@ -2,7 +2,6 @@
 ## Stacks環境構築
 
 
----
 ### conda経由でstacks 2.60
 
 参考
@@ -16,7 +15,6 @@ conda install -c bioconda stacks
 
 ```
 
----
 ### Stacksのインストール（公式HPからの場合）
 
 参考
