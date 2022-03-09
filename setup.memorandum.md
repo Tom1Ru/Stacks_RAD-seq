@@ -36,12 +36,22 @@ sudo make install
 
 IAB king serverの場合，コンパイル時にg++, gcc バージョン不具合が出るので注意．担当者の許可が必要だがclavate2には最新版が入っているのですんなり通る．
 
-```
+```sh
 #gcc 4.9.0以上が必要
 gcc --version
 ```
 ---
+## ADMIXTURE
 
+祖先推定
+
+参考
+- http://dalexander.github.io/admixture/download.html
+
+```sh
+wget http://dalexander.github.io/admixture/binaries/admixture_linux-1.3.0.tar.gz
+tar xfvz admixture_linux-1.3.0.tar.gz
+```
 
 
 
