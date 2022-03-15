@@ -2,13 +2,13 @@
 ## Stacks環境構築
 
 
-### conda経由でstacks 2.60
+### conda経由でstacks 
 
 参考
 
 - https://anaconda.org/bioconda/stacks
 
-conda環境があれば簡単に入る．推奨．
+conda環境があれば簡単に入る．推奨．コンパイラのバージョンに合わせてStacksのバージョンも変わる．
 
 ```sh
 conda install -c bioconda stacks
